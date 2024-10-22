@@ -1,0 +1,14 @@
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/obj/Debug/net8.0/KP6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/obj/Debug/net8.0/KP6.AssemblyInfoInputs.cache
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/obj/Debug/net8.0/KP6.AssemblyInfo.cs
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/obj/Debug/net8.0/KP6.csproj.CoreCompileInputs.cache
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/bin/Debug/net8.0/KP6
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/bin/Debug/net8.0/KP6.deps.json
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/bin/Debug/net8.0/KP6.runtimeconfig.json
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/bin/Debug/net8.0/KP6.dll
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/bin/Debug/net8.0/KP6.pdb
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/obj/Debug/net8.0/KP6.dll
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/obj/Debug/net8.0/refint/KP6.dll
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/obj/Debug/net8.0/KP6.pdb
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/obj/Debug/net8.0/KP6.genruntimeconfig.cache
+/Users/elizavetaborisenko/Desktop/study 🙇🏻‍♀️/ТРПЗ/KP6/KP6/obj/Debug/net8.0/ref/KP6.dll
